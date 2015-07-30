@@ -19,6 +19,7 @@ Man there is a lot to do here, don't look yet, using experimental rom-rb code
  * https://github.com/simonkro/do_mysql
  * https://github.com/dkubb/axiom-do-adapter
  * https://github.com/solnic/virtus - should i?
+ * https://github.com/PragTob/after_do
 
  Random notes:
 
